@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+footer {
+  width: 85%;
+  height: 100px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: #2f58cd;
+  color: white;
+}
+
+footer {
+  padding-top: 20px;
+  height: 50px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  padding-left: 40px;
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+.card {
+  width: 80%;
+  margin: 40px auto;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888888;
+}
